@@ -1,0 +1,6 @@
+def is_vogal(char):
+if all_vogal = 'a', 'e', 'i', 'o', 'u'
+    return '@ & ! # *' in all_vogal
+
+    
+	
